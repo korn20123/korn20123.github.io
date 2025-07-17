@@ -38,4 +38,4 @@ function App() {
         </div>
     );
 }
-export default Facts;
+export default App;

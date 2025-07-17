@@ -6,9 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "korn20123.github.io/random-facts-better",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
