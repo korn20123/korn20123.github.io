@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "korn20123.github.io/random-facts-better",
+  "homepage": "https://korn20123.github.io",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
